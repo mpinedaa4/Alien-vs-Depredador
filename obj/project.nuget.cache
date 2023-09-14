@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0dnoC4Ph6LqnG7NC3KHx99FWZXffOBTLccH6qJEFH6/4FjYfStCJ9+7zvYUgJLtoFzX2XoT6FbyxrrazhIiTg==",
+  "success": true,
+  "projectFilePath": "/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/Alien vs Depredador.csproj",
+  "expectedPackageFiles": [
+    "/Users/mateopineda/.nuget/packages/json.net/1.0.33/json.net.1.0.33.nupkg.sha512",
+    "/Users/mateopineda/.nuget/packages/messagepack/2.5.124/messagepack.2.5.124.nupkg.sha512",
+    "/Users/mateopineda/.nuget/packages/messagepack.annotations/2.5.124/messagepack.annotations.2.5.124.nupkg.sha512",
+    "/Users/mateopineda/.nuget/packages/microsoft.net.stringtools/17.6.3/microsoft.net.stringtools.17.6.3.nupkg.sha512",
+    "/Users/mateopineda/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/mateopineda/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

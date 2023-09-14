@@ -1,0 +1,21 @@
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/Alien vs Depredador
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/Alien vs Depredador.deps.json
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/Alien vs Depredador.runtimeconfig.json
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/Alien vs Depredador.dll
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/Alien vs Depredador.pdb
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/Alien vs Depredador.csproj.AssemblyReference.cache
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/Alien vs Depredador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/Alien vs Depredador.AssemblyInfoInputs.cache
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/Alien vs Depredador.AssemblyInfo.cs
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/Alien vs Depredador.csproj.CoreCompileInputs.cache
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/Alien vs Depredador.dll
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/refint/Alien vs Depredador.dll
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/Alien vs Depredador.pdb
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/Alien vs Depredador.genruntimeconfig.cache
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/ref/Alien vs Depredador.dll
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/Json.Net.dll
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/obj/Debug/net7.0/Alien vs Depredador.csproj.CopyComplete
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/MessagePack.dll
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/mateopineda/Desktop/Lenguajes de programación/Alien y depredador Final/Alien vs Depredador/Alien vs Depredador/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
